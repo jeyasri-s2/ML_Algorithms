@@ -10,7 +10,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-VENV
+VENV/
 build/
 develop-eggs/
 dist/
